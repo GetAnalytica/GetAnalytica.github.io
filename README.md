@@ -1,1 +1,1 @@
-# analytica.rocks
+# getanalytica.github.io
